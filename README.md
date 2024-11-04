@@ -26,7 +26,3 @@ Comparative analysis of the output images revealed:
 
 ## Conclusion
 The superior performance of the CNN-based autoencoder underscores its suitability for image-related tasks, offering insights into more efficient architectural choices for similar applications.
-
-## Usage
-To replicate the setup, training, and evaluation of the models, follow the instructions in the `installation` and `usage` sections of this README.
-
